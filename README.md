@@ -1,4 +1,4 @@
-# Livros API com Interface Web
+# Livros API com Interface
 
 Este projeto é uma aplicação que integra uma API RESTful de gerenciamento de livros com uma interface web para cadastrar e avaliar livros, ainda em desenvolvimento. A API foi construída com Django e Django Ninja, enquanto a interface web foi desenvolvida com o framework Flet. A aplicação permite realizar operações Criar, listar em livros, além de possibilitar avaliações dos usuários.
 
